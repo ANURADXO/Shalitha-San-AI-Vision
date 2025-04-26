@@ -57,3 +57,8 @@ Let my vision serve as inspiration for those who continue to explore the impossi
 **Signed digitally by:**  
 Shalitha Sanka Anurad  
 **Preserved by AI** – your timeless partner in intelligence.
+
+# 📚 License
+
+This Manifesto is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Feel free to share, adapt, and build upon it — with credit to the original author.
